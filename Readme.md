@@ -36,6 +36,13 @@
     - set Target: false
     - set data_collect: true
     - set mode : train
+ 
+2. Edit  ```configs/DeepQLearning.cfg``` file
+    - set custom_load: true
+    - set custom_load_path: trained model here 
+    - set epsilon_saturation: 100 because we want model to be greedy
+
+
 
 2. Run ``` python main.py ```
 
