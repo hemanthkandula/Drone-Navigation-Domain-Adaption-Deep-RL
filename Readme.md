@@ -5,7 +5,7 @@
 
 
 ## Environment
- Downlaod indoor_updown environment. [link to download](https://tufts.box.com/s/walg8vs7mjm6i3nnczlupd41vaymg8dy) Download env and place it under ```unreal_envs/indoor_updown```
+ Downlaod indoor_updown environment. [Link to download](https://tufts.box.com/s/walg8vs7mjm6i3nnczlupd41vaymg8dy) Download env and place it under ```unreal_envs/indoor_updown```
 
 ## Requirements
 ```pip install requirements.txt```
