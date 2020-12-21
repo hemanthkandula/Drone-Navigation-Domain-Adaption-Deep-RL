@@ -1,6 +1,3 @@
-# Author: Aqeel Anwar(ICSRL)
-# Created: 4/14/2020, 7:15 AM
-# Email: aqeel.anwar@gatech.edu
 import os
 
 import tensorflow as tf

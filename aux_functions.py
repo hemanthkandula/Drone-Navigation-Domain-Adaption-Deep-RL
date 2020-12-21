@@ -1,6 +1,3 @@
-# Author: Aqeel Anwar(ICSRL)
-# Created: 10/14/2019, 12:50 PM
-# Email: aqeel.anwar@gatech.edu
 import numpy as np
 import nvidia_smi
 import os, subprocess, psutil
