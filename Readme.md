@@ -121,6 +121,21 @@
 
 2. Edit  ```configs/DeepQLearning.cfg``` file
     - set custom_load: true
-    - set custom_load_path: path to retrained model after adaption
+    - set custom_load_path: path to retrained model after adaption 
 
 2. Run ``` python main.py ```
+
+
+# Demo 
+### Source task trained from scratch:
+[![Source task Video](https://img.youtube.com/vi/labaaEGMAwk/0.jpg)](https://www.youtube.com/watch?v=labaaEGMAwk)
+
+### Target Task trained from scratch:
+
+[![Target task Video](https://img.youtube.com/vi/_4xZucB2xFk/0.jpg)](https://www.youtube.com/watch?v=_4xZucB2xFk)
+
+
+### Target Task adapted from source:
+
+[![Target task adapted video](https://img.youtube.com/vi/ys8d9M-L6wk/0.jpg)](https://www.youtube.com/watch?v=ys8d9M-L6wk)
+
