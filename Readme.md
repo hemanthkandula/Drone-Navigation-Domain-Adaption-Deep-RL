@@ -1,7 +1,7 @@
 
 
 
-# [Domain Adaptation in Unmanned Aerial Vehicles Navigation and Obstacle Avoidance using Deep Reinforcement Learning](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption)
+# [Domain Adaptation in Unmanned Aerial Vehicles Navigation and Obstacle Avoidance using Deep Reinforcement Learning](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL)
 
 **Abstract:**
 
