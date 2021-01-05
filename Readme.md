@@ -141,4 +141,4 @@
 
 # Report 
 [Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf)
-% https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf %
+<!--- https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf -->
