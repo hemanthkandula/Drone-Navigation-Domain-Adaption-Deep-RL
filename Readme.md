@@ -140,5 +140,5 @@
 [![Target task adapted video](https://img.youtube.com/vi/ys8d9M-L6wk/0.jpg)](https://www.youtube.com/watch?v=ys8d9M-L6wk)
 
 # Report 
-[Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf)
+[Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf) - https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf
 <!--- https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf -->
