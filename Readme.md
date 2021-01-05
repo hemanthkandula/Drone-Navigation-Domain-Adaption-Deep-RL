@@ -7,7 +7,7 @@
 
 >  Recent advancements in deep reinforcement learning (RL) inspired end-to-end learning of Unmanned Aerial Vehicles (UAV) navigation. However, they can be slow to train and require lots of interactions with the environment, as these reinforcement learning algorithms have no prior knowledge about the environments or tasks. Transfer learning was shown to useful to help in some problems in transferring knowledge from a source task to a target task. But most RL problems direct TL with fine-tuning might not be the best solution to transfer knowledge between tasks, environments. Our work presents an adversarial domain adaption method for UAV navigation and obstacle avoidance. We align state representations of pre-trained source domain with target domains and demonstrate in a realistic drone simulator that initialization with domain adaption showed significant performance improvements over RL task learned from scratch.
 
-##Framwork
+## Framework
 <img src="figures/arch_main.png" alt="drawing" width="600px"/>
 
 
