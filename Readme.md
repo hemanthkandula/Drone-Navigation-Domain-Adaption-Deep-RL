@@ -142,3 +142,9 @@
 # Report 
 [Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf) - https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf
 <!--- https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf -->
+
+
+
+
+# Presentation
+[Link to presentation](https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing) - https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing
