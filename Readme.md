@@ -15,6 +15,33 @@
 ## Environment
  Downlaod indoor_updown environment. [Link to download](https://tufts.box.com/s/walg8vs7mjm6i3nnczlupd41vaymg8dy) Download env and place it under ```unreal_envs/indoor_updown```
 
+
+# Demo 
+### Source task trained from scratch:
+[![Source task Video](https://img.youtube.com/vi/labaaEGMAwk/0.jpg)](https://www.youtube.com/watch?v=labaaEGMAwk)
+
+### Target Task trained from scratch:
+
+[![Target task Video](https://img.youtube.com/vi/_4xZucB2xFk/0.jpg)](https://www.youtube.com/watch?v=_4xZucB2xFk)
+
+
+### Target Task adapted from source:
+
+[![Target task adapted video](https://img.youtube.com/vi/ys8d9M-L6wk/0.jpg)](https://www.youtube.com/watch?v=ys8d9M-L6wk)
+
+# Report 
+[Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf) - https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf
+<!--- https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf -->
+
+
+
+
+# Presentation
+[Link to presentation](https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing) - https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing
+
+
+# Running the code
+
 ## Requirements
 ```pip install requirements.txt```
 
@@ -126,25 +153,3 @@
 2. Run ``` python main.py ```
 
 
-# Demo 
-### Source task trained from scratch:
-[![Source task Video](https://img.youtube.com/vi/labaaEGMAwk/0.jpg)](https://www.youtube.com/watch?v=labaaEGMAwk)
-
-### Target Task trained from scratch:
-
-[![Target task Video](https://img.youtube.com/vi/_4xZucB2xFk/0.jpg)](https://www.youtube.com/watch?v=_4xZucB2xFk)
-
-
-### Target Task adapted from source:
-
-[![Target task adapted video](https://img.youtube.com/vi/ys8d9M-L6wk/0.jpg)](https://www.youtube.com/watch?v=ys8d9M-L6wk)
-
-# Report 
-[Link to report](https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf) - https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf
-<!--- https://github.com/hemanthkandula/Drone-Navigation-Domain-Adaption-Deep-RL/blob/main/Report.pdf -->
-
-
-
-
-# Presentation
-[Link to presentation](https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing) - https://docs.google.com/presentation/d/1uxtALIXzihvG79XEEwhaFvZsndUPv903F-BUoFHG6PY/edit?usp=sharing
